@@ -33,4 +33,9 @@ RF03 - Fazer uma "biblioteca" online, disponibilizando livros, periódicos, arti
 RF04 - Criar relatório de empréstimo, devolução e reserva de materiais.
 RF05 - Criar um relatório sobre relatórios e estatísticas sobreo o uso da biblioteca.
 
+// Obs: RNF: criar um sistema online e acessível para funcionários e alunos.
+// O certo da questão é:
+// RNF01: Será online e acessível para funcionários e alunos.
+  
+  
 _4°_
