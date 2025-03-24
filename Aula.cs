@@ -1,12 +1,12 @@
 _1°_
-requisito não funcinal (rnf)
-requisito funcional (rf)
+requisito não funcinal (RNF)
+requisito funcional (RF)
 
-A) não funcional (rnf)
-B) não funcional (rnf)
-C) funcional (rf)
-D) funcional (rf)
-E) funcional (rf)
+A) não funcional (RNF)
+B) não funcional (RNF)
+C) funcional (RF)
+D) funcional (RF)
+E) funcional (RF)
 
 _2°_ (No Projetor)
 
