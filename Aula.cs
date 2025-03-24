@@ -39,3 +39,22 @@ RF05 - Criar um relatório sobre relatórios e estatísticas sobreo o uso da bib
   
   
 _4°_
+
+Desenvolvimento de um Aplicativo de Agendamento de Consultas Médicas
+
+RN01 - Consultas agendadas no mínimo com 24 horas de antecedência
+RF01 - Enviar lembretes de consulta aos pacientes por meio de notificações
+RF02 - Aplicativo disponível todos os dias e a qualquer hora
+RF03 - Aplicativo deve permitir o agendamento de acordo com a agenda dos médicos
+RF04 - Permitir agendar o dia e o horário e o médico
+RF05 - Poder cancelar consultas com antecedência
+RF06 - Permitir reagendar consultas para outros horários disponíveis
+RF07 - Permitir a visualização dos horários disponíveis de cada médico
+RF08 - Permitir a visualização dos currículos dos médicos
+RF09 - Permitir a visualização dos históricos de consulta dos mesmos
+RF10 - Ser compatível com dispositivos movéis
+RF11 - Permitir aplicativo no modo easy
+RF12 - Aplicativo deve ser bem otimizado
+RF13 - Deve conter uma alta segurança para os dados de cada paciente
+RF14 - O aplicativo deve disponibilizar cancelamento de consulta com no mínimo 12 horas de antecedência
+RF15 - Criar limite de 3 consultas futuras por vez
