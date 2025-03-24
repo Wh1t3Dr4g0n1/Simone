@@ -30,17 +30,17 @@ Desenvolvimento de um Aplicativo de Agendamento de Consultas Médicas
 RN01 - Criar um aplicativo para uma rede de farmácias
 
 RF01 - Criar uma comunicação entre as farmácias
-RF02 - O cliente poder comprar pela WEB
-RF04 - Gerenciar compras de produtos
-RF05 - Disponibilizar uma farmácia conseguir consultar a outra para saber se há um produto em outra farmácia
-RF06 - Criar um cadastro de cliente
-RF07 - emissão de relatórios contábeis e compras pela web
+RF02 - Gerenciar compras de produtos
+RF03 - Disponibilizar uma farmácia conseguir consultar a outra para saber se há um produto em outra farmácia
+RF05 - Criar um cadastro de cliente
+RF06 - emissão de relatórios contábeis e compras pela web
 
 RNF01 - O cliente poder ver se há produto em estoque
-RNF02 - Criar um gerenciamento de funcionários, e de clientes
-RNF03 - gerenciamento de compras e vendas
-RNF04 - gerenciamento de pagamento
-RNF05 - emissão de nota fiscal
+RNF03 - O cliente poder comprar pela WEB
+RNF04 - Criar um gerenciamento de funcionários, e de clientes
+RNF05 - gerenciamento de compras e vendas
+RNF06 - gerenciamento de pagamento
+RNF07 - emissão de nota fiscal
 
 
 _4°_
