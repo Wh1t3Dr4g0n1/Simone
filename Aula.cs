@@ -28,6 +28,7 @@ _3°_
 Desenvolvimento de um Aplicativo de Agendamento de Consultas Médicas
 
 RN01 - Criar um aplicativo para uma rede de farmácias
+RN02 - Utilizar terminais próprios
 
 RF01 - Criar uma comunicação entre as farmácias
 RF02 - Gerenciar compras de produtos
