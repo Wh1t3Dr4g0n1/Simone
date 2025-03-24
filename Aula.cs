@@ -8,7 +8,7 @@ C) funcional (rf)
 D) funcional (rf)
 E) funcional (rf)
 
-_2°_
+_2°_ (No Projetor)
 
 RN01 - O quarto possui preço, descrição, não tem serviço do quarto e nem frigobar
 RN02 - As reservas são garantidas por meio de pagamento de diária
@@ -20,9 +20,22 @@ RF05 - Gerar relatório de reservas canceladas
 RF06 - Gerar relatório de reservas não pagas
 RF07 - Gerar relatório de reservas e serem efetivadas no dia
 RF08 - Gerar relatório de de reservas de um determinado período de tempo
-RF09 - 
 
 _3°_
+
+Desenvolvimento de um Aplicativo de Agendamento de Consultas Médicas
+
+RN01 - Criar um aplicativo para um rede de farmácias
+RF01 - Criar uma comunicação entre as farmácias
+RF02 - O cliente poder comprar pela WEB
+RF03 - O cliente poder ver se há produto em estoque
+RF04 - Gerenciar compras de produtos
+RF05 - Disponibilizar uma farmácia conseguir consultar a outra para saber se há um produto em outra farmácia
+RF06 - Criar um gerenciamento de funcionários, e de clientes
+RF07 - Criar um cadastro de cliente, gerenciamento de compras e vendas, gerenciamento de pagamento, emissão de nota 
+fiscal, e emissão de relatórios contábeis e compras pela web.
+
+_4°_
 
 Sistema de Gerenciamento de Biblioteca
 
@@ -38,7 +51,7 @@ RF05 - Criar um relatório sobre relatórios e estatísticas sobreo o uso da bib
 // RNF01: Será online e acessível para funcionários e alunos.
   
   
-_4°_
+_5°_
 
 Desenvolvimento de um Aplicativo de Agendamento de Consultas Médicas
 
