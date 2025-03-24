@@ -25,21 +25,25 @@ _3°_
 
 Desenvolvimento de um Aplicativo de Agendamento de Consultas Médicas
 
-RN01 - Criar um aplicativo para um rede de farmácias
+RN01 - Criar um aplicativo para uma rede de farmácias
 RF01 - Criar uma comunicação entre as farmácias
 RF02 - O cliente poder comprar pela WEB
 RF03 - O cliente poder ver se há produto em estoque
 RF04 - Gerenciar compras de produtos
 RF05 - Disponibilizar uma farmácia conseguir consultar a outra para saber se há um produto em outra farmácia
 RF06 - Criar um gerenciamento de funcionários, e de clientes
-RF07 - Criar um cadastro de cliente, gerenciamento de compras e vendas, gerenciamento de pagamento, emissão de nota 
-fiscal, e emissão de relatórios contábeis e compras pela web.
+RF07 - Criar um cadastro de cliente
+RF08 - gerenciamento de compras e vendas
+RF09 - gerenciamento de pagamento
+RF10 - emissão de nota fiscal
+RF11 - emissão de relatórios contábeis e compras pela web
 
 _4°_
 
 Sistema de Gerenciamento de Biblioteca
 
 RN01 - modernizar o sistema de gerenciamento em fichas catalográficas e processsos manuais.
+RNF01 - Ser online e acessível para funcionários e alunos.
 RF01 - Um novo sistema, chamado Bibliotech.
 RF02 - Sistema ser acessivel para funcionários e alunos.
 RF03 - Fazer uma "biblioteca" online, disponibilizando livros, periódicos, artigos, e outros materiais.
