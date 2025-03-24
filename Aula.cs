@@ -35,13 +35,14 @@ RF02 - Gerenciar compras de produtos
 RF03 - Disponibilizar uma farmácia conseguir consultar a outra para saber se há um produto em outra farmácia
 RF05 - Criar um cadastro de cliente
 RF06 - emissão de relatórios contábeis e compras pela web
+RF07 - Criar um gerenciamento de funcionários, e de clientes
+RF08 - gerenciamento de pagamento
+RF09 - gerenciamento de compras e vendas
+RF10 - O cliente poder ver se há produto em estoque
 
-RNF01 - O cliente poder ver se há produto em estoque
-RNF03 - O cliente poder comprar pela WEB
-RNF04 - Criar um gerenciamento de funcionários, e de clientes
-RNF05 - gerenciamento de compras e vendas
-RNF06 - gerenciamento de pagamento
-RNF07 - emissão de nota fiscal
+RNF01 - O cliente poder comprar pela WEB
+RNF02 - emissão de nota fiscal
+RNF04 - Segurança, criptografia no gerenciamento de compras
 
 
 _4°_
