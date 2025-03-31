@@ -86,3 +86,26 @@ RNF03 - Aplicativo deve ser bem otimizado
 RNF04 - Deve conter uma alta segurança para os dados de cada paciente
 RNF05 - Ser compatível com dispositivos movéis
 RNF06 - O aplicativo deve disponibilizar cancelamento de consulta com no mínimo 12 horas de antecedência
+
+_6°_
+
+Desenvolvimento de um Sistema de Controle de Estoque
+
+RN01 - Um sistema de loja de roupa para controle de estoque
+RF01 - calcular o valor automaticamente o total de produtos no estoque
+RF02/RNF01 - Sistema de backup / períodicamente
+RF03/RNF02 - Gerar um alerta quando a quantidade de produto atingir o nível mínimo de estoque / conversar com o cliente sobre o qual o mínimo
+RF04/RNF03 - Identificar o produto com baixa de estoque e gerar um alerta / conversar com o cliente sobre o qual o mínimo
+RF05/RNF04 - Sistema deve barrar a saída de produtos do estoque se a quantidade solicitada for maior que o disponível / conversar com o cliente sobre qual o mínimo
+RF06 - O sistema deve aplicar desconto nos preços dos produtos
+RF07/RNF05 - O sistema deve permitir a consulta de informações dos produtos / mas devem passar registrar a movimentação de saídas de produtos
+RF08 - O sistema deve permitir gerar relatórios de estoque, como lista de produto, quantidade, e valor de estoque
+RF09 - O sistema deve permitir cadastro de produtos
+RF10 - Permitir registrar entrada de produtos no estoque informando quantidade e data
+RF11 - Permitir registrar saída de produtos no estoque informando quantidade e data
+RNF06 - O sistema deve ser escalável, permitindo o aumento do volume de dados e usuários
+RNF07 - Sistema deve ser fácil de usar
+RNF08 - Ser otimizado
+RNF09 - Sistema deve ser seguro
+RF12 - Criar sistema de login
+
