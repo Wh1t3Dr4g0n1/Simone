@@ -50,6 +50,7 @@ _Aula Simone 28/04_
 
 - Cruzadinha
 
+// (Abrir "Aula.28.04.png")
 
 1. Atividade
 2. Implantação
@@ -62,3 +63,8 @@ _Aula Simone 28/04_
 9. Pacote
 10. Estado
 11. Tempo
+
+-Exercícios
+
+https://app.nearpod.com/presentation?pin=JHQ2S
+https://wordwall.net/play/3953/069/9372
